@@ -163,6 +163,19 @@ allBtn.addEventListener("click", function () {
 
 // grab the description container
 const descriptionContainer = document.getElementById("description-container");
+const arrUnfunded = GAMES_JSON.filter((objectItem) => {
+  return objectItem.pledged < objectItem.goal;
+});
+
+const numUnfunded = arrUnfunded.length;
+const displayString = `A total of $100,000 has been raised for 4 games. Currently, ${
+  numUnfunded == 1
+    ? "1 game remains unfunded"
+    : numUnfunded + " games remain unfunded."
+} . We need your help to fund these amazing games!`;
+
+const inputElement = `<p>${displayString}</p>`;
+descriptionContainer.innerHTML = inputElement;
 
 // use filter or reduce to count the number of unfunded games
 
