@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video controls src="./assets/webVideo.mp4" alt="Video walkthrough for website">
+<img src="./assets/webGif.gif" title='Video Walkthrough' width='500px' height="auto" alt='Video Walkthrough'/>
 
-Video created with Windows Snip Tool.
+GIF created with ScreenToGif.
 
 ## Notes
 
