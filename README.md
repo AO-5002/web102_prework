@@ -2,7 +2,7 @@
 
 Submitted by: Andres Ortiz Osorio
 
-CrowdFunded Games Statistics is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded. The company was founded in 2023 in Austin, TX, by a group of passionate developers with the goal of providing visibility, funding, and support to smaller and upcoming games. The website displays information such as the total amount of money raised, individual contributions, and the top-funded games. Users can easily filter through games that have met their funding goals using the 'funded' and 'unfunded' buttons. Overall, this website is excellent at offering a clear overview of the crowdfunding performance for its game selection.
+CrowdFunded Games Statistics is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: 3-5 hours spent in total
 
